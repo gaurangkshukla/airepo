@@ -11,6 +11,12 @@ Hugging Face Model - Transformers using
 
 ✅ Gradio for UI
 
+GenAI to generate Random Text using Artificial intelligence.
+
+✅ Markov Chain
+
+✅ GPT2
+
 YouTube: https://youtu.be/NwViXDMYDAE
 
 Created by Gaurang Shukla
