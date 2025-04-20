@@ -14,7 +14,7 @@ ChatBot - Conversational Q&A using Generative AI
 
 ✅ GPT2
 
-YouTube: 
+YouTube: https://youtu.be/PiJIFZ_uwsM
 
 Created by Gaurang Shukla
 
